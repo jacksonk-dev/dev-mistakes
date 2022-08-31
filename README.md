@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight: bold; font-size: 64px">
+<h1 align="center" style="font-weight: bold; font-size: 64px!important">
   <br>
   <a href="https://github.com/leonardomso/33"><img src="mistake.jpg" alt="Mistakes" width="200" /></a>
   <br>
