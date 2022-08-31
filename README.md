@@ -1,10 +1,9 @@
-<h1 align="center">
+<h1 align="center" style="font-weight: bold; font-size: 48px">
   <br>
-  <a href="https://github.com/leonardomso/33"><img src="mistake.jpg" alt="Mistakes" width=200" /></a>
-  <br>
+  <a href="https://github.com/leonardomso/33"><img src="mistake.jpg" alt="Mistakes" width="200" /></a>
   <br>
   dev mistakes
-  <br><br>
+  <br>
 </h1>
 
 ## What this is
