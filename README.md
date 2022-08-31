@@ -20,7 +20,7 @@ There is enough documentation of success, a lot of "how I joined a top notch com
 
 <hr />
 
-1. **[Selection of Tech Stack](#1-tech-stack)**
+1. **[Selection of Tech Stack](#1-selection-of-tech-stack)**
 2. **[Job Search](#2-job-search)**
 3. **[Interview Prep](#3-interview-prep)**
 4. **[Interviews](#4-interviews)**
@@ -33,6 +33,8 @@ There is enough documentation of success, a lot of "how I joined a top notch com
 
 5. **[Tools](#5-tools)**
 6. **[Documentation](#6-documentation)**
-7. **[Job Search or lack there of](#7-in-job-job-searching)**
-8. **[Testing or lack there of](#8-testing-code)**
-9. **[Git related](#5-git)**
+7. **[In Job Job Search or lack there of](#7-in-job-job-search-or-lack-there-of)**
+8. **[Testing or lack there of](#8-testing-or-lack-there-of)**
+9. **[Git related](#5-git-related)**
+
+## 1. Selection of Tech Stack
