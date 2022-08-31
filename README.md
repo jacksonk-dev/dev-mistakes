@@ -25,11 +25,11 @@ There is enough documentation of success, a lot of "how I joined a top notch com
 
 ### In Job
 
-5. **[Tools](#5-tools)**
-6. **[Documentation](#6-documentation)**
-7. **[In Job Job Search or lack there of](#7-in-job-job-search-or-lack-there-of)**
-8. **[Testing or lack there of](#8-testing-or-lack-there-of)**
-9. **[Git related](#5-git-related)**
+1. **[Tools](#1-tools)**
+2. **[Documentation](#2-documentation)**
+3. **[In Job Job Search or lack there of](#3-in-job-job-search-or-lack-there-of)**
+4. **[Testing or lack there of](#4-testing-or-lack-there-of)**
+5. **[Git related](#5-git-related)**
 
 <br />
 <hr />
