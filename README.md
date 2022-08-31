@@ -22,14 +22,15 @@ There is enough documentation of success, a lot of "how I joined a top notch com
 3. **[Interview Prep](#3-interview-prep)**
 4. **[Interviews](#4-interviews)**
 <br />
-
 ### In Job
-
 
 5. **[Tools](#5-tools)**
 6. **[Documentation](#6-documentation)**
 7. **[In Job Job Search or lack there of](#7-in-job-job-search-or-lack-there-of)**
 8. **[Testing or lack there of](#8-testing-or-lack-there-of)**
 9. **[Git related](#5-git-related)**
+
+<br />
+<hr />\
 
 ## 1. Selection of Tech Stack
