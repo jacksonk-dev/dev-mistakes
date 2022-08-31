@@ -12,3 +12,27 @@ An archive of mistakes devs have made in the job search and on job. Learn so you
 
 ## Reason for this repo
 There is enough documentation of success, a lot of "how I joined a top notch company", "how to ace an interview" but very little about mistakes devs have made along their journeys. Let's document mistakes so people following the same paths can try to do better from the start.
+
+## <a id="table-of-contents">Table of Contents</a>
+<hr />
+
+## Pre job
+
+<hr />
+
+1. **[Selection of Tech Stack](#1-tech-stack)**
+2. **[Job Search](#2-job-search)**
+3. **[Interview Prep](#3-interview-prep)**
+4. **[Interviews](#4-interviews)**
+<br />
+<hr />
+
+## In Job
+
+<hr />
+
+5. **[Tools](#5-tools)**
+6. **[Documentation](#6-documentation)**
+7. **[Job Search or lack there of](#7-in-job-job-searching)**
+8. **[Testing or lack there of](#8-testing-code)**
+9. **[Git related](#5-git)**
