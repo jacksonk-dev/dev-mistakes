@@ -32,6 +32,6 @@ There is enough documentation of success, a lot of "how I joined a top notch com
 9. **[Git related](#5-git-related)**
 
 <br />
-<hr />\
+<hr />
 
 ## 1. Selection of Tech Stack
