@@ -16,7 +16,7 @@ There is enough documentation of success, a lot of "how I joined a top notch com
 ## <a id="table-of-contents">Table of Contents</a>
 <hr />
 
-## Pre job
+### Pre job
 
 <hr />
 
@@ -27,7 +27,7 @@ There is enough documentation of success, a lot of "how I joined a top notch com
 <br />
 <hr />
 
-## In Job
+### In Job
 
 <hr />
 
