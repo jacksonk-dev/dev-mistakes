@@ -3,7 +3,6 @@
   <a href="https://github.com/leonardomso/33"><img src="mistake.jpg" alt="Mistakes" width="200" /></a>
   <br>
   dev mistakes
-  <br>
 </h1>
 
 ## What this is
