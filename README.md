@@ -40,7 +40,7 @@ There are several reasons why devs select the stack they end up using - a few of
 
 - Ease of learning - You want to build something fast
 - Size and activity of community behind the stack - You will get stuck building projects because of a bug, no idea how to do something etc. Whatever the reason, the community can determine how fast you find answers.
-- Demand for the stack - opportunities and consequently money comes into the mix. You want to learn something that will help you get a job fast.
+- Demand for the stack - opportunities and consequently money come into the mix. You want to learn something that will help you get a job fast.
 - What you want to build - If you want to build mobile apps, you are in luck because the options are few. But if you want to build for the web, the options can be overwhelming.
 - Fun - Many of us have learned things just because they are fun. That's the reason I tried out Python and Kotlin ( fun syntax )
 
