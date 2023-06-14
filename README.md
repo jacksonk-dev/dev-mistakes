@@ -55,33 +55,40 @@ Make sure you learn the right stack depending on which reason weighs most for yo
 <b>❌ The mistake would be choosing a stack for reasons that don't align with what you want in the future.</b>
 
 
-<br />
+<br /><br />
 
 ## 2. Job Search
-A successful job search depends on a few things:
-- Terrible Resume/CV. Remember the majority of people who screen CVs/Resumes to determine who gets an interview are non-technical people looking for a few details to match the job description at hand. Make their work easy, make the relevant details easy to find. I'm talking of years of experience, your skills etc. Make sure those details don't get lost in a lot of text. Someone is sifting through 100s of resumes, a few seconds for each - no time to read through long paragraphs. <b>❌ The mistake most make is pouring too much detail in a resume, deep details should be reserved for interviews. A CV/Resume should be precise to land you an interview.</b>
+A few mistakes can make job search a very hectic process.
+### 🔶 Terrible Resume/CV. 
+Remember the majority of people who screen CVs/Resumes to determine who gets an interview are non-technical people looking for a few details to match the job description at hand. Make their work easy, make the relevant details easy to find. I'm talking of years of experience, your skills etc. Make sure those details don't get lost in a lot of text. Someone is sifting through 100s of resumes, a few seconds for each - no time to read through long paragraphs. <b>❌ The mistake most make is pouring too much detail in a resume, deep details should be reserved for interviews. A CV/Resume should be precise to land you an interview.</b>
 
-- Failure to network. Having a network of connections in the industry could really go a long way. It could mean the difference between a few weeks and several months to a job offer. <b>❌ It would be a mistake not to put some time into building a network or having a network but not leveraging it.</b>
+### 🔶 Failure to network. 
+Having a network of connections in the industry could really go a long way. It could mean the difference between a few weeks and several months to a job offer. <b>❌ It would be a mistake not to put some time into building a network or having a network but not leveraging it.</b>
 
-- Being active in the developer community. 
-  - Do you contribute to open source?
-  - Do you write technical articles?
-  - Do you answer questions on stackoverflow?
-  - Do you create youtube tutorials or create tutorials on blogs and wherever?
+### 🔶 Being inactive in the developer community. 
+  - Contributing to open source
+  - Writing technical articles
+  - Answering questions on stackoverflow
+  - Creating youtube tutorials or creating tutorials on blogs or wherever
   <br /><br />
   All the above and more are things you can do to stand out as a candidate to companies. <b>❌ It would be a mistake not to be any active in the developer community.</b>
 
   <br />
 
-- Not being interview ready. You want to be ready for interviews before sending out job applications. At the very least, start preparing immediately after sending out the first job application. You don't want to be unprepared when opportunity knocks. <b>❌ It would be a mistake not to prepare for opportunity.</b>
+### 🔶 Not being interview ready. 
+You want to be ready for interviews before sending out job applications. At the very least, start preparing immediately after sending out the first job application. You don't want to be unprepared when opportunity knocks. <b>❌ It would be a mistake not to prepare for opportunity.</b>
 
-- Not submitting a cover letter?
+### 🔶 Not submitting a cover letter?
+
+<br /><br />
 
 ## 3. Interview Prep
-- Going at it alone.
-- Not dedicating enough time to the process.
+### 🔶 Going at it alone.
+### 🔶 Not dedicating enough time to the process.
+
+<br /><br />
 
 ## 4. Interviews
-- Not taking the chance to schedule the interview at own convenience.
-- Not setting up a good interviewing environment for self.
-- Failure to check internet, audio & video for remote interviews.
+### 🔶 Not taking the chance to schedule the interview at own convenience.
+### 🔶 Not setting up a good interviewing environment for self.
+### 🔶 Failure to check internet, audio & video for remote interviews.
