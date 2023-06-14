@@ -50,6 +50,29 @@ Make sure you learn the right stack depending on which reason weighs most for yo
 
 [
   It may be hard to learn but it would be worth it in the long run - for this reason, I should have started with Java/Spring Boot way earlier in my career instead of going for python. Don't get me wrong, Python is great but timing for learning it wasn't right for me - may be it is for you.
-] [jackthedev](https://github.com/jacksonk-dev)
+] [[jackthedev](https://github.com/jacksonk-dev)]
 
 <b>❌ The mistake would be choosing a stack for reasons that don't align with what you want in the future.</b>
+
+
+<br />
+
+## 2. Job Search
+A successful job search depends on a few things:
+- A well crafted Resume/CV. Remember the majority of people who screen CVs/Resumes to determine who gets an interview are non-technical people looking for a few details to match the job description at hand. Make their work easy, make the relevant details easy to find. I'm talking of years of experience, your skills etc. Make sure those details don't get lost in a lot of text. Someone is sifting through 100s of resumes, a few seconds for each - no time to read through long paragraphs. <b>❌ The mistake most make is pouring too much detail in a resume, deep details should be reserved for interviews.</b>
+
+- Networking. So far 2 of the 4 jobs I've held were because I was referred, one by a friend and another by a former boss, mentor and friend [[jackthedev](https://github.com/jacksonk-dev)]. Having a network of connections in the industry could really go a long way. It could mean the difference between a few weeks and several months to a job offer. <b>❌ It would be a mistake not to put some time into building a network or having a network but not leveraging it.</b>
+
+- Being active in the developer community. 
+  - Do you contribute to open source?
+  - Do you write technical articles?
+  - Do you answer questions on stackoveflow?
+  - Do you create youtube tutorials or create tutorials on blogs and wherever?
+  <br /><br />
+  All the above and more are things you can do to stand out as a candidate to companies. <b>❌ It would be a mistake not to be any active in the developer community.</b>
+
+  <br />
+
+- Being interview ready. You want to be ready for interviews before sending out job applications. At the very least, start preparing immediately after sending out the first job application. You don't want to be unprepared when opportunity knocks. <b>❌ It would be a mistake not to prepare for opportunity.</b>
+
+- Cover letter? I don't know about this one, and personally I hate them [[jackthedev](https://github.com/jacksonk-dev)].
